@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Diplomata|Inknut+Antiqua');
+
+h1{
+  font-size:60px;
+  font-family: 'Diplomata', cursive;
+  color: rgb(255,255,255);
+  border-bottom: 20px solid;
+  padding: 0px 0 0 30px;
+  border-color: black;
+  max-width: 100%;
+}
+
+header img{
+ width: 325px;
+ border: 10px solid;
+ border-color: rgb(237,243,238);
+}
+
+#container{
+  width: 960px;
+  margin: 0 auto;
+}
+
+header section{
+  max-width: 98%;
+}
+
+#left-col{
+  float:left;
+  margin-right:2%;
+  padding-left: 50px;
+}
+
+#right-col{
+  float: right;
+  font-size: 20px;
+  font-family: 'Inknut Antiqua', serif;
+}
+
+#container-2{
+  padding: 450px 0 0 0;
+}
+
+nav{
+  background-color: rgb(255,255,255);
+  border: 15px solid black;
+  font-size: 25px;
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+nav a{
+  color: rgb(38,173,228);
+  text-decoration: none;
+}
+
+nav a:hover{
+  text-decoration: underline;
+}
+
+nav a:visited{
+  color: rgb(209,231,81);
+  text-decoration: underline;
+}
+
+#contact{
+  text-align: center;
+  font-size: 30px;
+}
+
+
+body{
+  background-color: rgba(0,165,223,1);
+  min-width: 960px;
+}
+
+h2{
+  font-family: 'Diplomata', cursive;
+  font-size:20px;
+  color: rgb(255,255,255);
+}
+
+article{
+  font-family: 'Inknut Antiqua', serif;
+}
+
+h3{
+  font-size: 18px;
+}
+
+#education{
+  max-width: 960px;
+  font-size: 12px;
+}
+
+#college{
+  float: left;
+}
+
+#high-school{
+  float:right;
+  padding-bottom: 0;
+}
+
+#experience{
+  margin-top:400px;
+}
+
+table{
+  background-color: rgb(255,255,255);
+  max-width: 960px;
+}
+
+th{
+  font-size: 18px;
+}
+
+td{
+  font-size: 14px;
+}
+
+body footer{
+  background-color: rgba(255,255,255,1);
+  max-width: 420px;
+  margin-top: 20px;
+}
+
+footer h2{
+  color: black;
+}
+
+footer ul{
+  margin: 0;
+  list-style: none;
+  padding-left: 0;
+}
+
+footer li{
+  display: inline-block;
+  margin-right: 20px;
+}
+
+footer img{
+  /*Social Media icons (i.e. Facebook, Twitter,etc) taken from Wikipedia Commons*/
+  width:40px;
+  margin: 0 auto;
+  padding: 5px 20px 5px;
+}
